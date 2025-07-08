@@ -1,5 +1,5 @@
 # MySQL-AI-Agent
-A conversational AI assistant that interacts with MySQL databases using natural language\n
+**A conversational AI assistant that interacts with MySQL databases using natural language
 
 This project implements an intelligent agent that:
 🔍 Understands complex database queries in plain English
